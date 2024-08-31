@@ -1,0 +1,11 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch
+pytorch_lightning
+streamlit
+watchdog
+requests
+pandas
+numpy
+altair
+plotly
+transformers[torch]
